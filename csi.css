@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  margin: auto;
+  font-family: 'Roboto';
+  background-color:rgb(245, 209, 255);
+	margin: 0% 8% 0% 8%;
+	border-style: double;
+	border-width: 4px;
+	border-color: hsl(310, 33%, 22%) ;
+	color:hsl(310, 33%, 22%) ;
+
+}
+
+canvas {
+  vertical-align: top;
+}
+
+table, th, td {
+  margin: auto;
+  border: 3px solid rgb(159, 72, 186);
+  padding: 3px;
+  background-color:rgb(249, 229, 255);
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center
+}
+
+th {
+  background-color:rgb(159, 72, 186);
+  color: white;
+}
+
+html {
+  background-image: url("../Images/pink.png");
+}
+
+caption {
+  color: white;
+  border: 3px solid rgb(159, 72, 186);
+  background-color:rgb(159, 72, 186);
+  text-transform: uppercase;
+  font-weight: bold;
+}
